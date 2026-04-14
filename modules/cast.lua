@@ -101,7 +101,7 @@ local Spells = {
 	
 	-- Druid
 	[BS["Healing Touch"]] = {t=3.0};
-	[BS["Regrowth"]] = {t=2.0, g=21.0};
+	[BS["Regrowth"]] = {t=2.0, g=20.0};
 	[BS["Rebirth"]] = {t=2.0, d=1800.0};
 	[BS["Starfire"]] = {t=3};
 	[BS["Wrath"]] = {t=1.5};
